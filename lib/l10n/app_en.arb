@@ -1,0 +1,17 @@
+{
+    "@@locale": "en",
+    "noteSaved": "Note saved",
+    "@noteSaved": {},
+    "noteDeleted": "Note deleted",
+    "@noteDeleted": {},
+    "lastModified": "Last Modified",
+    "@lastModified": {},
+    "noteTitle": "Title...",
+    "@noteTitle": {},
+    "madeWithHeartBy": "Made with ❤️ by",
+    "@madeWithHeartBy": {},
+    "checkGitHubAccount": "Check my GitHub account",
+    "@checkGitHubAccount": {},
+    "creditsInviteContribute": "This project has been created as an experiment using Flutter.Feedback on bugs or features is appreciated. As an open-source project, feel free to contribute!",
+    "@creditsInviteContribute": {}
+}
